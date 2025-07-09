@@ -1,2 +1,1 @@
-# TPUTestnetAIChainUltra
-Advanced TPUTestnetAIChainUltra project
+.
